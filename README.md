@@ -20,4 +20,4 @@ Seaborn is a library for making statistical graphics in Python. It builds on top
 <br />
 
 ## Data Source
-This Data hac been imprted from kaggle.com
+This Data has been imported from kaggle.com
